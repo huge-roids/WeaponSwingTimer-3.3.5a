@@ -1,4 +1,4 @@
-# WeaponSwingTimer — 3.3.5a (WotLK) Backport
+# WeaponSwingTimer - 3.3.5a (WotLK) Backport
 
 A backport of **WeaponSwingTimer** to World of Warcraft **3.3.5a (Wrath of the Lich King)**.
 
