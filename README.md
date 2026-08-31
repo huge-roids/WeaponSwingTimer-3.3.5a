@@ -42,7 +42,13 @@ Interface\AddOns\WeaponSwingTimer
 
 4. Restart the game, or type `/reload` if you are already logged in.
 
-> **Don't use the green "Code → Download ZIP" button.** It produces a folder with `-main` on the end of the name, and WoW will not load an addon whose folder name doesn't match its `.toc`. Always download from **Releases**.
+> **Downloading from Releases is recommended** — that `.zip` contains the `WeaponSwingTimer` folder ready to drop
+> straight into `Interface\AddOns`.
+>
+> The green **Code → Download ZIP** button also works, but it wraps everything in a folder with `-main` on the end
+> of the name. If you use it, extract the archive and copy only the inner `WeaponSwingTimer` folder into
+> `Interface\AddOns` — don't copy the `-main` folder itself, as WoW won't load an addon whose folder name doesn't
+> match its `.toc`.
 
 ## What was changed for 3.3.5a
 
