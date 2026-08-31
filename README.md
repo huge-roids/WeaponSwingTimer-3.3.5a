@@ -34,10 +34,10 @@ Settings are saved per character.
 
 1. Download the `.zip` from the [Releases](../../releases) page.
 2. Extract it into your `Interface\AddOns` folder.
-3. Check the result looks like this:
+3. Check if the result looks like this:
 
 ```
-Interface\AddOns\WeaponSwingTimer\WeaponSwingTimer.toc
+Interface\AddOns\WeaponSwingTimer
 ```
 
 4. Restart the game, or type `/reload` if you are already logged in.
