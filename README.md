@@ -1,6 +1,6 @@
-# WeaponSwingTimer - 3.3.5a (WotLK) Backport
+# WeaponSwingTimer - 3.3.5a (WotLK) - (Epoch) Backport
 
-A backport of **WeaponSwingTimer** to World of Warcraft **3.3.5a (Wrath of the Lich King)**.
+A backport of **WeaponSwingTimer** to World of Warcraft **3.3.5a (Wrath of the Lich King) - (Project Epoch)**.
 
 > **All credit for this addon goes to [LeftHandedGlove](https://github.com/LeftHandedGlove).**
 > I did not write this addon - I only adapted the existing Classic version so it runs on 3.3.5a clients.
